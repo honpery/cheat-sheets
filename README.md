@@ -49,4 +49,4 @@ Improvements are welcome! Open an issue or send a pull request.
 
 ## License
 
-MIT license, see the included [LICENSE.md](https://www.github.com/honpery/cheatsheet/LICENSE.md) file.
+MIT license, see the included [LICENSE.md](https://github.com/honpery/cheat-sheets/blob/master/LICENSE.md) file.
