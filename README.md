@@ -4,22 +4,26 @@
 
 ## Contents
 
-- [Programming Languages](#Programming Languages)
-- [Development Tools](#Development Tools)
-- [Front-end Development](#Front-end Development)
-- [Back-end Development](#Back-end Development)
-- [Others](#Others)
+- [Programming Languages](#programming-languages)
+- [Development Tools](#development-tools)
+- [Front-end Development](#front-end-development)
+- [Back-end Development](#back-end-development)
+- [Others](#others)
 
-### Programming Languages
+#### Programming Languages
 
+- [C++](https://github.com/gibsjose/cpp-cheat-sheet)
+- [CSS](https://github.com/AdamMarsden/css-cheat-sheet)
 - [Elm](https://github.com/izdi/elm-cheat-sheet)
 - [Go](https://github.com/a8m/go-lang-cheat-sheet)
 - [Java](https://github.com/egek92/JavaCheatSheet)
+- [Java8](https://github.com/BafS/Java8-CheatSheet)
 - [Objective-C](https://github.com/iwasrobbed/Objective-C-CheatSheet)
 - [Python](https://github.com/juliangaal/python-cheat-sheet)
 - [Swift](https://github.com/iwasrobbed/Swift-CheatSheet)
+- [TypeScript](https://github.com/frontdevops/typescript-cheat-sheet)
 
-### Development Tools
+#### Development Tools
 
 - [Docker](https://github.com/wsargent/docker-cheat-sheet)
 - [Docker](https://github.com/eon01/DockerCheatSheet)
@@ -27,14 +31,15 @@
 - [Github](https://github.com/tiimgreen/github-cheat-sheet)
 - [Vim](https://github.com/rtorr/vim-cheat-sheet)
 
-### Front-end Development
+#### Front-end Development
 
 - [Angular](https://angular.io/guide/cheatsheet)
 - [React Native](https://github.com/refinery29/react-native-cheat-sheet)
+- [Jest](https://github.com/sapegin/jest-cheat-sheet)
 
-### Back-end Development
+#### Back-end Development
 
-### Others
+#### Others
 
 - [AI](https://github.com/kailashahirwar/cheatsheets-ai)
 
